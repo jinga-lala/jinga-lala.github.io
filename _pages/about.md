@@ -17,9 +17,14 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+latest_posts: false
+
 ---
 
-I am an ML Scientist II at Microsoft. My research focuses on the intersection of diffusion models and multimodal large-language models. I regularly collaborate with [Vibhav Vineet](https://vibhav-vineet.github.io/). Previously, I graduated from Georgia Tech under the mentorship of [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and earned my bachelor's in Computer Science from IIT Bombay, where I received an excellence in research award under the guidance of [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/).
+Welcome! I am a researcher at Microsoft specializing in the intersection of diffusion models—which are generative models used to create synthetic data—and multimodal large-language models that integrate various data types such as text and images. 
+I collaborate closely with [Vibhav Vineet](https://vibhav-vineet.github.io/) on projects aimed at enhancing the capabilities of these models.
+
+Previously, I graduated from Georgia Tech and finished my thesis under the mentorship of [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Before that, I  earned my bachelor's in Computer Science from IIT Bombay, where I received an excellence in research award under the guidance of [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/).
 
 Feel free to connect with me through the social links below.
 
