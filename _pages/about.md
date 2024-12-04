@@ -7,7 +7,7 @@ subtitle: <a href='https://www.microsoft.com/en-us/research/people/yasjain/'>ML 
 
 profile:
   align: right
-  image: 11.jpg
+  image: 051822_HeadShotDay_-236.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
     # <p>555 your office number</p>
