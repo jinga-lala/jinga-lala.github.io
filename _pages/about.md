@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.microsoft.com/en-us/research/people/yasjain/'>ML Scientist II, Microsoft</a>
+# . Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: yashjain.jpg
+  image: 11.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
     # <p>555 your office number</p>
