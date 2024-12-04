@@ -6,19 +6,19 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yashjain.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Yash Jain, an ML Scientist II at Microsoft. My research focuses on the intersection of diffusion models and multimodal large-language models. I regularly collaborate with [Vibhav Vineet](https://vibhav-vineet.github.io/). Previously, I graduated from Georgia Tech under the mentorship of [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and earned my bachelor's in Computer Science from IIT Bombay, where I received an excellence in research award under the guidance of [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/).
+I am an ML Scientist II at Microsoft. My research focuses on the intersection of diffusion models and multimodal large-language models. I regularly collaborate with [Vibhav Vineet](https://vibhav-vineet.github.io/). Previously, I graduated from Georgia Tech under the mentorship of [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/) and earned my bachelor's in Computer Science from IIT Bombay, where I received an excellence in research award under the guidance of [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/).
 
 Feel free to connect with me through the social links below.
 
