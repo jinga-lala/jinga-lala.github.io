@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finished [B.Tech.](www.cse.iitb.ac.in), got Excellence in Research Award from the department!
+Finished [B.Tech.](https://www.cse.iitb.ac.in), got Excellence in Research Award from the department!
