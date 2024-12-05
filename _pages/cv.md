@@ -1,6 +1,6 @@
 ---
 layout: cv
-cv_pdf: cv.pdf # you can also use external links here
+cv_pdf: CV.pdf # you can also use external links here
 permalink: /assets/pdf/CV.pdf
 title: CV
 nav: true
