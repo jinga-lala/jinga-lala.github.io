@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yash-jain.com/sitemap.xml
+Sitemap: https://jinga-lala.github.io/sitemap.xml
