@@ -26,7 +26,8 @@ I collaborate closely with [Vibhav Vineet](https://vibhav-vineet.github.io/) on 
 
 Previously, I graduated from Georgia Tech and finished my thesis under the mentorship of [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Before that, I  earned my bachelor's in Computer Science from IIT Bombay, where I received an excellence in research award under the guidance of [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/).
 
-Feel free to connect with me through the social links below.
+**Reach out by email if you wish to collaborate!**
+<!-- Feel free to connect with me through the social links below. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
