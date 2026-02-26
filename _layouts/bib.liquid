@@ -250,6 +250,12 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.weights %}
+        <a href="{{ entry.weights }}" class="btn btn-sm z-depth-0" role="button">Base</a>
+      {% endif %}
+      {% if entry.weights_instruct %}
+        <a href="{{ entry.weights_instruct }}" class="btn btn-sm z-depth-0" role="button">Instruct</a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}

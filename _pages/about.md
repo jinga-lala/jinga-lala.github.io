@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.microsoft.com/en-us/research/people/yasjain/'>ML Scientist II, Microsoft</a>
+subtitle: <a href='https://www.essential.ai/'>Research Scientist, Essential AI Labs</a>
 # . Address. Contacts. Motto. Etc.
 
 profile:
@@ -21,10 +21,11 @@ latest_posts: false
 
 ---
 
-Welcome! I am a researcher at Microsoft specializing in the intersection of diffusion models—which are generative models used to create synthetic data—and multimodal large-language models that integrate various data types such as text and images. 
-I collaborate closely with [Vibhav Vineet](https://vibhav-vineet.github.io/) on projects aimed at enhancing the capabilities of these models.
+Welcome! I am a Research Scientist at [Essential AI Labs](https://www.essential.ai/), where I build foundation models alongside [Ashish Vaswani](https://scholar.google.com/citations?user=oR9sCGYAAAAJ&hl=en) (Attention is All You Need). I was a core contributor to [Rnj-1](https://www.essential.ai/blog/rnj-1), a state-of-the-art open-source coding and agentic foundation model that has amassed 600k+ downloads.
 
-Previously, I graduated from Georgia Tech and finished my thesis under the mentorship of [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Before that, I  earned my bachelor's in Computer Science from IIT Bombay, where I received an excellence in research award under the guidance of [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/).
+Previously, I was an ML Scientist II at Microsoft Research, where I worked on diffusion models and multimodal large-language models in collaboration with [Vibhav Vineet](https://vibhav-vineet.github.io/), publishing at CVPR, NeurIPS, NAACL, and EMNLP.
+
+I graduated from Georgia Tech with an M.S. in Computer Science, advised by [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Before that, I earned my B.Tech. in Computer Science from IIT Bombay, where I received an Excellence in Research Award under [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/).
 
 **Reach out by email if you wish to collaborate!**
 <!-- Feel free to connect with me through the social links below. -->

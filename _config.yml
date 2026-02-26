@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yash
 last_name: Jain
 email: yash.jain3599@gmail.com
-description: ML Scientist II at Microsoft specializing in diffusion models and multimodal large-language models.
+description: Research Scientist at Essential AI Labs specializing in foundation models, LLMs, and multimodal AI.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -202,7 +202,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -229,6 +229,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - assets/jupyter/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -369,6 +370,8 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
+    weights,
+    weights_instruct,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)

@@ -1,7 +1,7 @@
 ---
 layout: cv
-cv_pdf: CV.pdf # you can also use external links here
-permalink: /assets/pdf/CV.pdf
+cv_pdf: Yash_Jain_CV.pdf # you can also use external links here
+permalink: /assets/pdf/Yash_Jain_CV.pdf
 title: CV
 nav: true
 nav_order: 3
