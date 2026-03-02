@@ -25,7 +25,7 @@ Welcome! I am a Research Scientist at [Essential AI Labs](https://www.essential.
 
 Previously, I was an ML Scientist II at Microsoft Research, where I worked on diffusion models and multimodal large-language models in collaboration with [Vibhav Vineet](https://vibhav-vineet.github.io/), publishing at CVPR, NeurIPS, NAACL, and EMNLP.
 
-I graduated from Georgia Tech with an M.S. in Computer Science, advised by [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Before that, I earned my B.Tech. in Computer Science from IIT Bombay, where I received an Excellence in Research Award under [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/).
+I graduated from Georgia Tech with an M.S. in Computer Science, advised by [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Before that, I earned my B.Tech. in Computer Science from IIT Bombay, where I received an Excellence in Research Award under [Soumen Chakrabarti](https://scholar.google.com/citations?user=LfF2zfQAAAAJ&hl=en).
 
 **Reach out by email if you wish to collaborate!**
 <!-- Feel free to connect with me through the social links below. -->
