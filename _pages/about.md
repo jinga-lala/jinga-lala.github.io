@@ -23,7 +23,7 @@ latest_posts: false
 
 Welcome! I am a Research Scientist at [Essential AI Labs](https://www.essential.ai/), where I build foundation models alongside [Ashish Vaswani](https://scholar.google.com/citations?user=oR9sCGYAAAAJ&hl=en) (Attention is All You Need). I was a core contributor to [Rnj-1](https://www.essential.ai/blog/rnj-1), a state-of-the-art open-source coding and agentic foundation model that has amassed 600k+ downloads.
 
-Previously, I was an ML Scientist II at Microsoft Research, where I worked on diffusion models and multimodal large-language models in collaboration with [Vibhav Vineet](https://vibhav-vineet.github.io/), publishing at CVPR, NeurIPS, NAACL, and EMNLP.
+Previously, I was an ML Scientist II at Microsoft Research, where I worked on diffusion models and multimodal large-language models in collaboration with [Vibhav Vineet](https://vibhav-vineet.github.io/), publishing at NeurIPS, CVPR, ICLR, ICCV, NAACL, EMNLP, ISWC, and UbiComp.
 
 I graduated from Georgia Tech with an M.S. in Computer Science, advised by [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Before that, I earned my B.Tech. in Computer Science from IIT Bombay, where I received an Excellence in Research Award under [Soumen Chakrabarti](https://scholar.google.com/citations?user=LfF2zfQAAAAJ&hl=en).
 
