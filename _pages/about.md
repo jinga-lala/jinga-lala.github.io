@@ -24,7 +24,7 @@ latest_posts: false
 
 Welcome! I am a Research Scientist at [Essential AI Labs](https://www.essential.ai/), where I build foundation models alongside [Ashish Vaswani](https://scholar.google.com/citations?user=oR9sCGYAAAAJ&hl=en) (Attention is All You Need). I was a core contributor to [Rnj-1](https://www.essential.ai/blog/rnj-1), an open-source coding and agentic foundation model with over one million downloads across Hugging Face and Ollama — I worked on execution-based code generation, the agentic tool-calling stack and chat template, and the long-context mid-training that grew into Rnj-1.5 (32k→160k tokens, 40% on SWE-bench Verified).
 
-Previously, I was an ML Scientist II at Microsoft, where I worked on diffusion models and multimodal large-language models in collaboration with [Vibhav Vineet](https://vibhav-vineet.github.io/), publishing at NeurIPS, CVPR, ICLR, ICCV, NAACL, EMNLP, ISWC, and UbiComp.
+Previously, I was an ML Scientist II at Microsoft, where I worked on diffusion models and multimodal large-language models in collaboration with [Vibhav Vineet](https://vibhav-vineet.github.io/) and [Harkirat Behl](https://harkiratbehl.github.io/), publishing at NeurIPS, CVPR, ICLR, ICCV, NAACL, EMNLP, ISWC, and UbiComp.
 
 I graduated from Georgia Tech with an M.S. in Computer Science, advised by [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Before that, I earned my B.Tech. in Computer Science from IIT Bombay, where I received an Excellence in Research Award under [Soumen Chakrabarti](https://scholar.google.com/citations?user=LfF2zfQAAAAJ&hl=en).
 
