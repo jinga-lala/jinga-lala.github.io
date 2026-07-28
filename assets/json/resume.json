@@ -6,7 +6,7 @@
     "email": "yash.jain3599@gmail.com",
     "phone": "",
     "url": "https://jinga-lala.github.io",
-    "summary": "Research Scientist at Essential AI Labs specializing in foundation models, LLMs, and multimodal AI. Previously ML Scientist II at Microsoft Research.",
+    "summary": "Research Scientist at Essential AI Labs specializing in foundation models, LLMs, and multimodal AI. Previously ML Scientist II at Microsoft.",
     "location": {
       "city": "San Francisco",
       "countryCode": "US",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "name": "Microsoft Research",
+      "name": "Microsoft",
       "position": "ML Scientist II",
       "url": "https://www.microsoft.com/en-us/research/",
       "startDate": "2023-07-01",
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "name": "Microsoft Research",
+      "name": "Microsoft",
       "position": "Research Intern",
       "url": "https://www.microsoft.com/en-us/research/",
       "startDate": "2022-01-01",
