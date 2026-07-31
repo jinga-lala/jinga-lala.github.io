@@ -28,6 +28,8 @@ Previously, I was an ML Scientist II at Microsoft, where I worked on diffusion m
 
 I graduated from Georgia Tech with an M.S. in Computer Science, advised by [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/). Before that, I earned my B.Tech. in Computer Science from IIT Bombay, where I received an Excellence in Research Award under [Soumen Chakrabarti](https://scholar.google.com/citations?user=LfF2zfQAAAAJ&hl=en).
 
+I have been fortunate to be mentored by these amazing researchers: [Thomas Ploetz](https://www.cc.gatech.edu/people/thomas-ploetz), [Akhil Mathur](https://akhilmathurs.github.io/), [Swarun Kumar](https://swarunkumar.com/), and [Abir De](https://www.cse.iitb.ac.in/~abir/).
+
 **Reach out by email if you wish to collaborate!**
 <!-- Feel free to connect with me through the social links below. -->
 
