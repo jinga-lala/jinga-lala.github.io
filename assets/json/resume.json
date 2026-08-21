@@ -34,7 +34,7 @@
     {
       "name": "NVIDIA",
       "position": "Research Scientist",
-      "url": "https://www.nvidia.com/",
+      "url": "https://developer.nvidia.com/topics/ai/nemotron",
       "startDate": "2026-08-03",
       "endDate": "",
       "summary": "Pre-training the next generation of Nemotron models.",
@@ -46,9 +46,10 @@
       "url": "https://www.essential.ai/",
       "startDate": "2025-06-01",
       "endDate": "2026-08-02",
-      "summary": "Working on foundation models and large language models.",
+      "summary": "Built foundation models alongside Ashish Vaswani (Attention is All You Need).",
       "highlights": [
-        "Part of the team that released Rnj-1, a state-of-the-art open-source foundation model with 600k+ downloads."
+        "Core contributor to Rnj-1, an open-source coding and agentic foundation model with over one million downloads across Hugging Face and Ollama.",
+        "Worked on execution-based code generation, the agentic tool-calling stack, and the long-context mid-training that grew into Rnj-1.5 (32k to 160k tokens, 40% on SWE-bench Verified)."
       ]
     },
     {

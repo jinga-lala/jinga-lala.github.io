@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.nvidia.com/'>Research Scientist, Nemotron @ NVIDIA</a>
+subtitle: <a href='https://developer.nvidia.com/topics/ai/nemotron'>Research Scientist, Nemotron @ NVIDIA</a>
 # . Address. Contacts. Motto. Etc.
 
 profile:
@@ -22,7 +22,7 @@ latest_posts: false
 
 ---
 
-Welcome! I am a Research Scientist at [NVIDIA](https://www.nvidia.com/), where I am pre-training the next generation of [Nemotron](https://developer.nvidia.com/nemotron) models.
+Welcome! I am a Research Scientist at [NVIDIA](https://developer.nvidia.com/topics/ai/nemotron), where I am pre-training the next generation of [Nemotron](https://developer.nvidia.com/topics/ai/nemotron) models.
 
 Previously, I was a Research Scientist at [Essential AI Labs](https://www.essential.ai/), where I built foundation models alongside [Ashish Vaswani](https://scholar.google.com/citations?user=oR9sCGYAAAAJ&hl=en) (Attention is All You Need). I was a core contributor to [Rnj-1](https://www.essential.ai/blog/rnj-1), an open-source coding and agentic foundation model with over one million downloads across Hugging Face and Ollama — I worked on execution-based code generation, the agentic tool-calling stack, and the long-context mid-training that grew into [Rnj-1.5](https://huggingface.co/EssentialAI/rnj-1.5-instruct) (32k→160k tokens, 40% on SWE-bench Verified).
 

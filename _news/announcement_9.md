@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [NVIDIA](https://www.nvidia.com/) to pre-train the next generation of [Nemotron](https://developer.nvidia.com/nemotron) models!
+Joined [NVIDIA](https://developer.nvidia.com/topics/ai/nemotron) to pre-train the next generation of [Nemotron](https://developer.nvidia.com/topics/ai/nemotron) models!

@@ -36,8 +36,9 @@
       institution: Essential AI Labs, San Francisco, CA
       year: 2025 - 2026
       description:
-        - Working on foundation models and large language models.
-        - Part of the team that released Rnj-1, a state-of-the-art open-source foundation model (600k+ downloads).
+        - Built foundation models alongside Ashish Vaswani (Attention is All You Need).
+        - Core contributor to Rnj-1, an open-source coding and agentic foundation model with over one million downloads across Hugging Face and Ollama.
+        - Worked on execution-based code generation, the agentic tool-calling stack, and the long-context mid-training that grew into Rnj-1.5 (32k→160k tokens, 40% on SWE-bench Verified).
     - title: ML Scientist II
       institution: Microsoft, Redmond, WA
       year: 2023 - 2025
