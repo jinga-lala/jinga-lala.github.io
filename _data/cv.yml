@@ -28,8 +28,13 @@
   type: time_table
   contents:
     - title: Research Scientist
+      institution: NVIDIA, Santa Clara, CA
+      year: 2026 - now
+      description:
+        - Pre-training the next generation of Nemotron models.
+    - title: Research Scientist
       institution: Essential AI Labs, San Francisco, CA
-      year: 2025 - now
+      year: 2025 - 2026
       description:
         - Working on foundation models and large language models.
         - Part of the team that released Rnj-1, a state-of-the-art open-source foundation model (600k+ downloads).

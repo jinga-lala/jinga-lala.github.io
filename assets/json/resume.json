@@ -6,7 +6,7 @@
     "email": "yash.jain3599@gmail.com",
     "phone": "",
     "url": "https://jinga-lala.github.io",
-    "summary": "Research Scientist at Essential AI Labs specializing in foundation models, LLMs, and multimodal AI. Previously ML Scientist II at Microsoft.",
+    "summary": "Research Scientist at NVIDIA pre-training the next generation of Nemotron models. Previously at Essential AI Labs and Microsoft.",
     "location": {
       "city": "San Francisco",
       "countryCode": "US",
@@ -32,11 +32,20 @@
   },
   "work": [
     {
+      "name": "NVIDIA",
+      "position": "Research Scientist",
+      "url": "https://www.nvidia.com/",
+      "startDate": "2026-08-03",
+      "endDate": "",
+      "summary": "Pre-training the next generation of Nemotron models.",
+      "highlights": []
+    },
+    {
       "name": "Essential AI Labs",
       "position": "Research Scientist",
       "url": "https://www.essential.ai/",
       "startDate": "2025-06-01",
-      "endDate": "",
+      "endDate": "2026-08-02",
       "summary": "Working on foundation models and large language models.",
       "highlights": [
         "Part of the team that released Rnj-1, a state-of-the-art open-source foundation model with 600k+ downloads."
